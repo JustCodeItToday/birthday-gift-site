@@ -11,7 +11,7 @@ Also, consider how you should select the image
 
 body {
     text-align: center;
-    background: linear-gradient(#a2d2ff, #EFB0C9);
+    background: linear-gradient(#14213d, #fca311);
     color: #ffffff;
 
     font-family: "Happy Monkey", system-ui;
@@ -27,7 +27,7 @@ body {
 
 #bff-img {
     width: 200px;
-    border: 6px solid #EFB0C9;
+    border: 6px solid #fca311;
     /* Makes the image round! 50% is the maximum border radius */
     border-radius: 50%;
     margin-bottom: 10px;
@@ -42,7 +42,7 @@ p {
 }
 
 #bday-age {
-    background: #EFB0C9;
+    background: #fca311;
     padding: 10px;
     margin: 5px 0 10px 0;
     border-radius: 5px;
@@ -50,7 +50,7 @@ p {
 }
 
 #bday-date {
-    background: #EFB0C9;
+    background: #fca311;
     padding: 10px;
     border-radius: 5px;
     margin: 0;
